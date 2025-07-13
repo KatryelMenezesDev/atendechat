@@ -54,7 +54,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: theme.palette.fancyBackground,
     '& .MuiButton-outlinedPrimary': {
       color: theme.mode === 'light' ? '#FFF' : '#FFF',
-	  //backgroundColor: theme.mode === 'light' ? '#2AC005' : '#2AC005',
+	  //backgroundColor: theme.mode === 'light' ? '#682ee2' : '#682ee2',
 	backgroundColor: theme.mode === 'light' ? theme.palette.primary.main : '#1c1c1c',
       //border: theme.mode === 'light' ? '1px solid rgba(0 124 102)' : '1px solid rgba(255, 255, 255, 0.5)',
     },
